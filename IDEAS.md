@@ -1,0 +1,5 @@
+- Customer Churn vorhersagen
+- Kundensegmentierung
+  - Marketing
+- Spiel lernen
+- Emotionen erkennen
