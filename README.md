@@ -1,3 +1,2 @@
-# Projekt für die Vorlesung "Introduction to Data Science"
-
-## von Mihabat und Robbie
+# Facial emotion recognition
+Live-Gesichtererkennung mit Emotionenklassifzierung
