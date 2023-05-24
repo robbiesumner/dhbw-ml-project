@@ -2,4 +2,4 @@
 
 Live-Gesichtererkennung mit Emotionenklassifzierung
 
-Projekt für die DHBW Lörrach von Mihabat Khairi und Robbie Sumner
+Projekt für die DHBW Lörrach von Mihabat Aeido und Robbie Sumner
